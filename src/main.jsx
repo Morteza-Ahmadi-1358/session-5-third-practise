@@ -8,5 +8,5 @@ import 'bootstrap/dist/css/bootstrap.css'
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-    <App />
+    <ProductsList />
 )
